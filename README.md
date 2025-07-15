@@ -1,17 +1,10 @@
-# Code for Paper Lox: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning
+# Lox: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning
 
-## Authors:
 **Gabriel J. Perin¹, Runjin Chen², Xuxi Chen², Nina S. T. Hirata¹, Zhangyang Wang², Junyuan Hong²**
 
-¹University of São Paulo  
-²University of Texas at Austin  
+¹University of São Paulo  ²University of Texas at Austin  
 
-Emails:  
-{chenrunjin, xxchen, jyhong, atlaswang}@utexas.edu  
-gabrieljp@usp.br, nina@ime.usp.br  
-
-**Correspondence:** jyhong@utexas.edu
-
+https://arxiv.org/abs/2506.15606v1
 
 ## Abstract:
 
