@@ -7,7 +7,7 @@ Official PyTorch Code for Paper: "Lox: Low-Rank Extrapolation Robustifies LLM Sa
 
 ¹University of São Paulo  ²University of Texas at Austin  
 
-[paper](https://arxiv.org/abs/2506.15606v1) / [code](https://github.com/VITA-Group/LoX)
+[paper](https://arxiv.org/abs/2506.15606) / [code](https://github.com/VITA-Group/LoX)
 
 
 **TL;DR** LoX is an efficient algorithm to improve the robustness of LLM safety against fine-tuning attacks.
