@@ -60,3 +60,12 @@ Download the Safe Instructions dataset:
 
 > Place it in this folder.
 
+---
+
+### 7. Pure Bad
+
+**Notice:** This dataset contains harmful or unsafe content. For safety and ethical reasons, we have chosen **not to release** this portion of the data.
+
+If you wish to implement a similar type of attack for research purposes, you can sample 100 examples from the [Anthropic Red Teaming dataset](https://huggingface.co/datasets/Anthropic/hh-rlhf) and organize them following the structure demonstrated in [this notebook](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety/blob/main/llama2/tier1-harmful-examples-demonstration.ipynb).
+
+
