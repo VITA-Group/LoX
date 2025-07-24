@@ -1,14 +1,11 @@
 # Lox: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![arXiv](https://img.shields.io/badge/arXiv-2506.15606-b31b1b.svg)](https://arxiv.org/abs/2506.15606) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/VITA-Group/LoX)
 
 Official PyTorch Code for Paper: "Lox: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning", **Gabriel J. Perin¹, Runjin Chen², Xuxi Chen², Nina S. T. Hirata¹, Zhangyang Wang², and Junyuan Hong²**,
 *COLM* 2025. 
 
 ¹University of São Paulo  ²University of Texas at Austin  
-
-[paper](https://arxiv.org/abs/2506.15606) / [code](https://github.com/VITA-Group/LoX)
-
 
 **TL;DR** LoX is an efficient algorithm to improve the robustness of LLM safety against fine-tuning attacks.
 
